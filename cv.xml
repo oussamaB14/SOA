@@ -1,0 +1,80 @@
+<resume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="cv.xsd">
+  <personal_information>
+    <name>Oussama Boufari</name>
+    <address>
+      <street>Cité el Ghazella</street>
+      <city>Ariana</city>
+      <state>Tunisie</state>
+      <zip>8080</zip>
+    </address>
+    <email>oussamaboufari@gmail.com</email>
+    <phone>29278690</phone>
+  </personal_information>
+  
+  <summary>
+ Élève ingénieur en informatique à TEK-UP A la recherche d’unstage d'têt,
+passionné par les nouvelles technologies et en constante recherche de
+connaissances pour développer mes compétences. J'ai une solide base
+théorique en informatique acquise au cours de mes études, ainsi qu'une
+expérience pratique grâce à des projets personnels et universitaires.
+
+  </summary>
+  
+  <education>
+    <degree>
+      <title>ÉTUDIANT EN INGÉNIERIE</title>
+      <school>TEK-UP</school>
+      <year>2023</year>
+    </degree>
+  </education>
+  <education>
+    <degree>
+      <title>  Licence en Informatique et Multimédia</title>
+      <school>Institut Supérieur d'Informatique et de Multimédia de Gabès</school>
+      <year>2019-20222</year>
+    </degree>
+  </education>
+  
+  <experience>
+    <job>
+      <title>TATA IT</title>
+      <company></company>
+      <location>Tataouine</location>
+      <date>2021 - 2021</date>
+      <responsibilities>
+       L’objectif de ce stage était de développer un site web de centre d’informatique IT Smart soft. Le site web était développé par les framework Angular et Django, et Postgresql comme base de données
+      </responsibilities>
+    </job>
+    <experience>
+    <job>
+      <title>TATA IT</title>
+      <company></company>
+      <location>Tataouine</location>
+      <date>2021 - 2021</date>
+      <responsibilities>
+       L’objectif de ce stage était de développer un application mobile pour un site d'annonces
+      </responsibilities>
+    </job>
+    
+  </experience>
+  
+  <skills>
+    <programming_languages>
+      <language>Java</language>
+      <language>Python</language>
+      <language>JavaScript</language>
+    </programming_languages>
+    <web_technologies>
+      <technology>HTML/CSS</technology>
+      <technology>Flutter</technology>
+      <technology>Angular</technology>
+    </web_technologies>
+  </skills>
+  
+  <languages>
+    <language>Anglais</language>
+    <language>Francais</language>
+  </languages>
+</resume>
+
